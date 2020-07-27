@@ -1,0 +1,22 @@
+#dash{
+    display: flex;
+}
+
+.boder{
+    border: 1px slategrey solid;
+    margin-left: 10px;
+    padding-left: 50px ;
+    padding-top: 50px;
+    padding-right: 50px;
+}
+
+.button{
+    padding: 10px;
+    padding-bottom: 20px;
+}
+
+#padd{
+    padding-bottom: 60px;
+    padding-left: 120px;
+    
+}

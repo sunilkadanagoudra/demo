@@ -1,0 +1,11 @@
+.bgart{
+    width: 1265px;
+    height: 40px;
+    position: absolute;
+    margin-bottom: -4px;
+    padding-right: 25px;
+}
+
+.text{
+    position: relative;
+}

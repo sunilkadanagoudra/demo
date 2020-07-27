@@ -1,0 +1,80 @@
+.bg{
+    
+    height: 140px;
+    position: absolute;
+    width: 1265px;
+    padding-right: 25px;
+}
+.logos{
+    
+    height: 120px;
+    position: relative;
+    padding-left: 130px;
+    padding-top: 30px;
+}
+
+.rapid{
+    
+    height: 45px;
+    position: relative;
+    padding-left: 35px;
+    padding-bottom: 2px;
+}
+
+
+.user{
+    position: fixed; 
+  padding-left: 800px;
+  padding-top: 55px;
+}
+.lag{
+    position: fixed; 
+    padding-left: 500px;
+    padding-top: 55px;
+  
+}
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .topnav {
+    overflow: hidden;
+    background-color: #4caf50;
+  }
+  
+#hd{
+    margin-top: 5px;
+    width: 1295px;
+    padding-right: 25px;
+  
+}
+
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: rgb(10, 17, 114);
+    color: white;
+  }
+
+  #imgi{
+    margin-bottom: -5px;
+    margin-left: 300px;
+    background-color: #250606d4;
+    padding-left: 100px;
+    padding-top: 22px;
+    padding-bottom: 2px;
+    margin-top: 1px;
+  }
